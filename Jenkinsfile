@@ -31,7 +31,7 @@ node {
             
          if (rc != 0) { error 'hub org authorization failed' }
 
-		 println ' Autherization sucessful '
+		 println 'Authorization sucessful'
 			
 		 rmsg = bat returnStdout: true, script: "sfdx force:source:deploy -p force-app/main/default -u ${HUB_ORG}"
 			  
