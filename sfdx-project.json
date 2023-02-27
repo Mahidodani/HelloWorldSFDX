@@ -7,6 +7,6 @@
   ],
   "name": "HelloWorld",
   "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sfdcLoginUrl": "https://mphasis54-dev-ed.lightning.force.com",
   "sourceApiVersion": "56.0"
 }
